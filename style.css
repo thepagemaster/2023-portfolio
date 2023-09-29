@@ -1,0 +1,70 @@
+a, h1, h2, h3, p , li {
+  font-family: 'Noto Sans Miao', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  display: block ;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.white {
+  color: black;
+}
+ 
+.header {
+  width: 80%;
+  background: transparent;
+  padding: 1rem;
+  position: absolute;
+  top: 10rem;
+  left: 1rem;
+  z-index: 1000;
+}
+
+
+
+.navbar-brand img {
+  display: block ;
+  width: 100px;
+  height: auto;
+}
+
+
+.navbar-expand-lg .navbar-collapse {
+
+  justify-content: end;
+
+
+}
+
+.navbar img {
+  mix-blend-mode: initial;
+    backdrop-filter: invert(1);
+
+}
+
+.navbar {
+text-transform: uppercase;
+margin-right: 2vw;
+margin-left: 2vw; 
+
+}
+
+.Mcontainer {
+  display: block;
+  margin-right: 5vw;
+  margin-left: 5vw;
+  position: relative;
+}
